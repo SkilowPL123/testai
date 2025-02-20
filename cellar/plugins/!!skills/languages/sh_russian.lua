@@ -1,0 +1,48 @@
+LANGUAGE = {
+	skills = "Umiejętności",
+	attribPointsLeft = "",
+	attributes = "Atrybuty",
+	atbStr = "Siła",
+	descStr = "Brutalna siła fizyczna. Wpływa na obrażenia od ataku i zadawany ból pięściami lub bronią białą.",
+	atbPer = "Percepcja",
+	descPer = "Wysoki poziom percepcji jest ważny dla snajperów. Daje bonus do strzelania na długie dystanse.",
+	atbEnd = "Wytrzymałość",
+	descEnd = "Wytrzymałość i fizyczna odporność. Wpływa na pasywną regenerację zdrowia i maksymalny poziom energii.",
+	atbInt = "Inteligencja",
+	descInt = "Poziom inteligencji jest ważny dla każdej postaci. Wpływa na całe zdobywane doświadczenie w umiejętnościach.",
+	atbAgi = "Zwinność",
+	descAgi = "Zwinność jest ważna dla każdej aktywnej postaci. Wpływa na parowanie w walce wręcz, szansę uniku oraz możliwość utrzymania broni w rękach podczas obrażeń rąk.",
+	atbLuck = "Szczęście",
+	descLuck = "Rzut obronny w różnych okolicznościach.",
+
+	skillGuns = "Broń palna",
+	skillMWeapons = "Broń biała",
+	skillUnarmed = "Walka wręcz",
+	skillAcrobat = "Akrobatyka",
+	skillAthlet = "Atletyka",
+	skillMedicine = "Medycyna",
+
+	skillPatchApply = "ZASTOSUJ NOWE PARAMETRY",
+	skillPatchTitle = "Aktualizacja Umiejętności i Atrybutów",
+	skillPathText = "W związku z nową aktualizacją, Twoja postać korzysta ze starego systemu atrybutów. Wybierz nowe parametry dla swojej postaci.",
+	
+	rollOutput = "%s otrzymał %s z %s",
+	skillSuccess = "sukces",
+	skillFail = "porażka",
+	
+	mdCharSetSkill = "Ustawia poziom wybranej umiejętności dla gracza.",
+	cmdCharAddSkill = "Zwiększa poziom wybranej umiejętności dla gracza.",
+	cmdCharAddSkillXP = "Zwiększa doświadczenie w wybranej umiejętności dla gracza.",
+	cmdCharSetSkillXP = "Ustawia poziom doświadczenia w wybranej umiejętności dla gracza.",
+	cmdCharSetSkillStage = "Ustawia etap wybranej umiejętności dla gracza, jeśli istnieje.",
+	cmdRollSkill = "Sprawdza sukces wybranej umiejętności, generując losową liczbę od 0 do 100.",
+	
+	skillSetStage = "Ustawiłeś postaci %s wartość etapu umiejętności %s na %s.",
+	skillSetXP = "Ustawiłeś postaci %s doświadczenie w umiejętności %s na %s.",
+	skillAddXP = "Zwiększyłeś postaci %s doświadczenie w umiejętności %s o %s.",
+	skillAdd = "Zwiększyłeś postaci %s wartość umiejętności %s o %s.",
+	skillSet = "Ustawiłeś postaci %s wartość umiejętności %s na %s.",
+	skillNotFound = "Nie znaleziono umiejętności!",
+	cmdRollStat = "Sprawdza sukces wybranej cechy, generując losową liczbę od 1 do 10.",
+	skillIncreased = "Twoja umiejętność %s została zwiększona do %s."
+}

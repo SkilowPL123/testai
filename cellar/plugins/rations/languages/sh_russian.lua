@@ -1,0 +1,21 @@
+LANGUAGE = {
+	["iCPRation"] = "Racja Ochrony Obywatelskiej",
+	["iCPRationDesc"] = "Czarna plastikowa torba z jasnym białym emblematem Sojuszu. Powinna zawierać porcję żywności i puszkę wody.",
+	["iPRation"] = "Racja najwyższej jakości",
+	["iPRationDesc"] = "Nietrwałe plastikowe opakowanie z dużą pieczęcią z przodu i napisem \"Racja najwyższej jakości\". Powinna zawierać porcję żywności, puszkę wody i dodatkowy produkt.",
+	["iLRation"] = "Racja lojalisty",
+	["iLRationDesc"] = "Nietrwałe plastikowe opakowanie z dużą pieczęcią z przodu i napisem \"Racja lojalisty\". Powinna zawierać porcję żywności, puszkę wody, czekoladę i jeszcze jeden produkt.",
+	["iSRation"] = "Racja standardowa",
+	["iSRationDesc"] = "Nietrwałe plastikowe opakowanie z dużą pieczęcią z przodu i napisem \"Racja standardowa\". Powinna zawierać porcję żywności i puszkę wody.",
+	["iMRation"] = "Racja minimalna",
+	["iMRationDesc"] = "Nietrwałe plastikowe opakowanie z dużą pieczęcią z przodu i napisem \"Racja minimalna\". Powinna zawierać porcję żywności i puszkę wody.",
+	["iFilledRation"] = "Wypełniona racja",
+	["iFilledRationDesc"] = "Nietrwałe plastikowe opakowanie bez pieczęci. Powinna zawierać porcję żywności i puszkę wody.",
+	["iRationPackage"] = "Puste opakowanie po racji",
+	["iRationPackageDesc"] = "Puste opakowanie po racji, wcześniej było to %s.",
+	["iRationPackageDesc2"] = "Puste opakowanie po racji.",
+	["Open"] = "Otwórz",
+	["categoryRation"] = "Racje",
+	["objRCrate"] = "Skrzynia z racjami",
+	["rCrateStatus"] = "Zapełnione w %s/10"
+}

@@ -1,0 +1,9 @@
+ITEM.name = "Bateria Ciemnej Energii"
+ITEM.uniqueID = "bullets_dominator"
+ITEM.model = "models/Items/car_battery01.mdl"
+ITEM.description = "Jednorazowa bateria przechowująca ogromne ilości ciemnej energii."
+ITEM.maxStack = 90
+ITEM.defaultStack = 90
+ITEM.width = 2
+ITEM.height = 2
+ITEM.rarity = 2
